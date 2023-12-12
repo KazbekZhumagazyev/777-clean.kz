@@ -293,7 +293,7 @@ a.btn {
 }
 
 .custom-checkbox .checkbox-square:after, .custom-radio .checkbox-square:after {
-    background-image: url(public/assets/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: -20px -178px;
     width: 10px;
     height: 14px;
@@ -398,7 +398,7 @@ a.btn {
 }
 
 .form-check .form-check-label .check-box-custom .check-cont {
-    background-image: url(public/assets/images/sprite.png);
+    background-image: url(/images/sprite.png);
     background-position: -20px -178px;
     width: 10px;
     height: 14px;
@@ -988,7 +988,7 @@ input.error, textarea.error {
 .main-page_calculator .decor:before {
     content: "";
     display: inline-block;
-    background-image: url(public/assets/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: -143px -138px;
     width: 18px;
     height: 10px
@@ -1331,7 +1331,7 @@ footer .bottom-content .right-content .items a:hover {
     left: 24px;
     margin-top: 30px;
     content: "";
-    background-image: url(public/assets/images/sprite.png);
+    background-image: url(../images/sprite.png);
     top: 0
 }
 
@@ -1398,7 +1398,7 @@ footer .bottom-content .right-content .items a:hover {
     width: 17px;
     height: 17px;
     content: "";
-    background-image: url(public/assets/images/sprite.png);
+    background-image: url(../images/sprite.png);
     top: 0
 }
 
@@ -1447,7 +1447,7 @@ footer .bottom-content .right-content .items a:hover {
     -webkit-background-size: 35px 21px;
     -o-background-size: 35px 21px;
     -moz-background-size: 35px 21px;
-    background-image: url("public/assets/images/go-top-btn-icon.png");
+    background-image: url("../images/go-top-btn-icon.png");
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -1501,7 +1501,7 @@ footer .bottom-content .right-content .items a:hover {
     z-index: 2;
     height: 230px;
     content: "";
-    background-image: url(public/assets/images/line-b.png);
+    background-image: url(/images/line-b.png);
     background-position: top center;
     background-repeat: no-repeat;
     left: 0;
@@ -1519,7 +1519,7 @@ footer .bottom-content .right-content .items a:hover {
     z-index: 1;
     height: 530px;
     content: "";
-    background-image: url(public/assets/images/bubbles.png);
+    background-image: url(/images/bubbles.png);
     background-position: top right;
     background-repeat: no-repeat;
     left: 0;

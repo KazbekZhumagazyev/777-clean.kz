@@ -100,7 +100,6 @@
 </div>
 
 <div id="calculator" class="main-page_calculator">
-
     <div class="container">
         <div class="decor"></div>
         <div class="calculate-block">
@@ -128,10 +127,6 @@
                     <div class="minus"></div>
                     <input type="text" name="flat" value="1 санузел" data-for="#input-bathroom" id="input-bathroom-main">
                     <div class="plus"></div>
-                </div>
-
-                <div class="calculate-input">
-                    <button class="second-btn" onclick="calculatePopupShow(); return false;">Выбрать время и опции</button>
                 </div>
             </div>
 

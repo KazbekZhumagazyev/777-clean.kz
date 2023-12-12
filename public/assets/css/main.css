@@ -93,7 +93,7 @@
 }
 
 #our-service .right-content .items .owl-nav .owl-prev:after, #our-service .right-content .items .owl-nav .owl-next:after {
-    background-image: url(public/assets/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: -230px 0;
     content: "";
     width: 9px;
@@ -126,7 +126,7 @@
     padding-bottom: 300px;
     position: relative;
     background-color: #fff;
-    background-image: url(public/assets/images/our-advantages-bg.png);
+    background-image: url(../images/our-advantages-bg.png);
     background-position: right bottom;
     background-repeat: no-repeat
 }
@@ -186,7 +186,7 @@
     margin-top: -175px;
     padding-top: 140px;
     padding-bottom: 80px;
-    background-image: url(public/assets/images/where-and-why-bg.png);
+    background-image: url(../images/where-and-why-bg.png);
     background-position: center top;
     background-size: 100% 100%;
     position: relative;
@@ -352,7 +352,7 @@
     width: 44px;
     height: 45px;
     content: "";
-    background-image: url(public/assets/images/sprite.png)
+    background-image: url(../images/sprite.png)
 }
 
 #our-specialists .top-content h2 {
@@ -377,7 +377,7 @@
     width: 166px;
     height: 128px;
     content: "";
-    background-image: url(public/assets/images/sprite.png)
+    background-image: url(../images/sprite.png)
 }
 
 #our-specialists .bottom-content .items .item {
@@ -414,7 +414,7 @@
 }
 
 #our-specialists .bottom-content .items .item .stars .star {
-    background-image: url(public/assets/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: -56px -138px;
     width: 22px;
     height: 22px;
@@ -507,7 +507,7 @@
     width: 33px;
     height: 42px;
     content: "";
-    background-image: url(public/assets/images/sprite.png)
+    background-image: url(../images/sprite.png)
 }
 
 #reviews .items .item .photo {
@@ -561,7 +561,7 @@
 }
 
 #reviews .reviews-nav-container .owl-prev:after, #reviews .reviews-nav-container .owl-next:after {
-    background-image: url(public/assets/images/sprite.png);
+    background-image: url(../images/sprite.png);
     content: "";
     background-position: -230px 0
 }
@@ -675,7 +675,7 @@
     position: relative;
     overflow: hidden;
     background-color: #2bc06e;
-    background-image: url(public/assets/images/offers-bg.jpg);
+    background-image: url(../images/offers-bg.jpg);
     background-position: right bottom;
     background-size: auto 100%;
     background-repeat: no-repeat
@@ -775,7 +775,7 @@
     -webkit-transition: all .3s;
     transition: all .3s;
     content: "";
-    background-image: url(public/assets/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: 0 -178px
 }
 
@@ -1043,7 +1043,7 @@
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
     content: "";
-    background-image: url(public/assets/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: 0 -178px
 }
 
@@ -1142,7 +1142,7 @@
     width: 9px;
     height: 15px;
     content: "";
-    background-image: url(public/assets/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: -143px -138px;
     width: 18px;
     height: 10px
