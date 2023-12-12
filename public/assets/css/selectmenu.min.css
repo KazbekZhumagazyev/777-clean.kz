@@ -1,0 +1,82 @@
+.ui-selectmenu-button.ui-button {
+    width: 100%;
+    border: 1px solid #dee0e5;
+    padding-left: 22px;
+    padding-right: 15px;
+    background-color: transparent;
+    color: #424e68;
+    font-size: 16px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 40px;
+    -webkit-border-radius: 30px;
+    border-radius: 30px;
+    position: relative;
+}
+
+.ui-state-hover, .ui-widget-content .ui-state-hover:not(.ui-datepicker-next):not(.ui-datepicker-prev), .ui-widget-header .ui-state-hover:not(.ui-datepicker-next):not(.ui-datepicker-prev), .ui-state-focus:not(.ui-datepicker-next):not(.ui-datepicker-prev), .ui-widget-content .ui-state-focus:not(.ui-datepicker-next):not(.ui-datepicker-prev), .ui-widget-header .ui-state-focus:not(.ui-datepicker-next):not(.ui-datepicker-prev), .ui-button:hover:not(.ui-datepicker-next):not(.ui-datepicker-prev), .ui-button:focus:not(.ui-datepicker-next):not(.ui-datepicker-prev) {
+    outline: none !important;
+}
+
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus, .ui-button:hover, .ui-button:focus {
+    background: #fff !important;
+    font-weight: inherit;
+    color: #000 !important;
+}
+
+.ui-icon-triangle-1-s {
+    display: inline-block;
+    background-image: url(public/assets/images/sprite.png) !important;
+    background-position: -171px -138px;
+    width: 14px;
+    height: 8px;
+    margin-left: 10px;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    margin-top: 1px;
+    position: absolute;
+    right: 20px;
+    top: calc(50% - 4px);
+}
+
+.ui-menu .ui-menu-item-wrapper {
+    cursor: pointer;
+    padding: 8px 30px 8px 20px;
+    -webkit-transition: all .2s;
+    transition: all .2s;
+    text-transform: none;
+    font-size: 14px;
+    color: #6d6d71;
+    border: none;
+    margin: 0 !important;
+}
+
+.ui-menu .ui-menu-item-wrapper:hover {
+    background-color: #2BC06E;
+    color: #fff;
+    font-weight: initial;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+    font-weight: initial;
+}
+
+.ui-state-hover .ui-icon, .ui-state-focus .ui-icon, .ui-button:hover .ui-icon, .ui-button:focus .ui-icon {
+    background-image: url(../images/sprite.png) !important;
+    background-position: -171px -138px;
+}
+
+.ui-selectmenu-button.ui-button:hover .ui-icon, .ui-selectmenu-button.ui-button:focus .ui-icon {
+    background-image: url(../images/sprite.png) !important;
+}
+
+.ui-selectmenu-button.ui-button:hover {
+    color: #424e68;
+    font-weight: 100;
+}
+
+.ui-selectmenu-menu .ui-menu {
+    max-height: 200px;
+}
